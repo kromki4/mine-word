@@ -1,0 +1,22 @@
+{
+  "id": "лошадь_-264-69-384",
+  "name": "лошадь",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--14654070-waypoint-icon.png",
+  "x": -264,
+  "y": 69,
+  "z": -384,
+  "r": 32,
+  "g": 101,
+  "b": 138,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

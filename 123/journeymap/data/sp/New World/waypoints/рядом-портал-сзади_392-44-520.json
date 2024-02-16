@@ -1,0 +1,22 @@
+{
+  "id": "рядом-портал-сзади_392-44-520",
+  "name": "рядом портал сзади",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9798117-waypoint-icon.png",
+  "x": 392,
+  "y": 44,
+  "z": -520,
+  "r": 106,
+  "g": 126,
+  "b": 27,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

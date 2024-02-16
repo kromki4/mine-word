@@ -1,0 +1,410 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "8c5a95cbce940cfdb304376ae9fea47968d02587",
+      "size": 10436626,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+    },
+    {
+      "sha1": "de86b035d2da0f78940796bb95c39a932ed84834",
+      "size": 12592249,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+    },
+    {
+      "sha1": "6c48521eed01fe2e8ecdadbd5ae348415f3c47da",
+      "size": 8001795,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-mappings.txt"
+    },
+    {
+      "sha1": "3c8aa19b710a3a68f721210eb69b74594d13e218",
+      "size": 18842082,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+    },
+    {
+      "sha1": "41840b31f027a2221fb2bd004a3050df91bf6296",
+      "size": 2629691,
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-universal.jar"
+    },
+    {
+      "sha1": "601e9c9f33fd3b63ffc72fb1f8d999624c7a103e",
+      "size": 4733836,
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-client.jar"
+    },
+    {
+      "sha1": "69ca36ae5b8d45c377a5485dc38a7343e5ebf33c",
+      "size": 117592,
+      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.1.0/fmlcore-1.20.1-47.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.20.1-47.1.0/fmlcore-1.20.1-47.1.0.jar"
+    },
+    {
+      "sha1": "a2cd58d15791eaac9983e30be0995e66bd48633e",
+      "size": 16373,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.20.1-47.1.0/javafmllanguage-1.20.1-47.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.20.1-47.1.0/javafmllanguage-1.20.1-47.1.0.jar"
+    },
+    {
+      "sha1": "ff1b8eeb1bd00dfb130263b8952b931f5369252e",
+      "size": 4999,
+      "path": "libraries/net/minecraftforge/mclanguage/1.20.1-47.1.0/mclanguage-1.20.1-47.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.20.1-47.1.0/mclanguage-1.20.1-47.1.0.jar"
+    },
+    {
+      "sha1": "f1f11b7217b8320f1b3eb81c746b7b8a70a9ba06",
+      "size": 7399,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.1.0/lowcodelanguage-1.20.1-47.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.20.1-47.1.0/lowcodelanguage-1.20.1-47.1.0.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -785931142530500,
+    "name": "123",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "author": "tlauncher.org",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://tlauncher.org",
+          "favorite": false,
+          "categories": [],
+          "picture": 73988,
+          "pictures": [
+            73989,
+            73990
+          ],
+          "lanName": "tl-skin-and-cape",
+          "version": {
+            "id": 11005070,
+            "name": "1.32",
+            "updateDate": 1688572437000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "b7df8fec6b076b9b1755754f03fde08349d221d1",
+              "size": 715179,
+              "path": "mods/tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+              "url": "/mods/23168708/11005069/tl_skin_cape_forge_1.20_1.20.1-1.32.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 332992,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1689863066000,
+          "update": 1689863066000,
+          "downloadALL": 196734538,
+          "available": true,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "author": "OptiFine.net",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://optifine.net",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 52103,
+          "pictures": [],
+          "lanName": "optifine",
+          "version": {
+            "id": 11005240,
+            "name": "1.20.1_HD_U_I6_pre3",
+            "updateDate": 1689677671000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "8eddc009996077d659e93b0f20ec919cdcd2e095",
+              "size": 6636409,
+              "path": "mods/OptiFine-1.20.1_HD_U_I6_pre3.jar",
+              "url": "/mods/23301722/11005239/OptiFine-1.20.1_HD_U_I6_pre3.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 106929,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1689677666000,
+          "update": 1689677666000,
+          "downloadALL": 52695231,
+          "available": true,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 32274,
+          "name": "JourneyMap",
+          "author": "techbrew",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 451907,
+          "pictures": [],
+          "lanName": "journeymap",
+          "version": {
+            "id": 4655325,
+            "name": "journeymap-1.20.1-5.9.12-forge",
+            "updateDate": 1689874514000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "ad4dc7fbd0834cbf9914fba5cf22f8fb1b3ff1fc",
+              "size": 7102721,
+              "path": "mods/journeymap-1.20.1-5.9.12-forge.jar",
+              "url": "/mods/32274/4655325/journeymap-1.20.1-5.9.12-forge.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 40310,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5027,
+              "name": "JourneyMap Tools",
+              "gameEntityId": 226005,
+              "dependencyType": "tools"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1689800400000,
+          "update": 1689800400000,
+          "downloadALL": 29336798,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280294,
+          "name": "FPS Reducer",
+          "author": "bre2el",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 477874,
+          "pictures": [],
+          "lanName": "fps-reducer",
+          "version": {
+            "id": 4586784,
+            "name": "FpsReducer2-forge-1.20-2.5",
+            "updateDate": 1686690000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "d7d5af20faa2bd7012aa2d34b5804324aa273092",
+              "size": 125347,
+              "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
+              "url": "/mods/280294/4586784/FpsReducer2-forge-1.20-2.5.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 15661,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1686690000000,
+          "update": 1686690000000,
+          "downloadALL": 11637201,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 240633,
+          "name": "Inventory Sorter",
+          "author": "cpw11",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/inventory-sorter",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 475488,
+          "pictures": [],
+          "lanName": "inventory-sorter",
+          "version": {
+            "id": 4655091,
+            "name": "inventorysorter-1.20.1-23.0.1",
+            "updateDate": 1689864301000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "32e30b71d7ef67b306a24191c655528509454cb5",
+              "size": 52148,
+              "path": "mods/inventorysorter-1.20.1-23.0.1.jar",
+              "url": "/mods/240633/4655091/inventorysorter-1.20.1-23.0.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 204,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1689800400000,
+          "update": 1689800400000,
+          "downloadALL": 278210,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 46,
+        "name": "1.20.1"
+      },
+      "minecraftVersionName": {
+        "id": 3517,
+        "name": "47.1.0"
+      },
+      "id": -785931142768301,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.20.1",
+  "skinVersion": true
+}
