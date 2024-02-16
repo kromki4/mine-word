@@ -1,0 +1,15 @@
+{
+  "clientToken": "9e3b92d7-fe4a-4c4f-a1e9-1a14cc0824b0",
+  "accounts": {
+    "e16da09837794aa680f97da8817f79aa": {
+      "username": "iJamal",
+      "userID": "e16da09837794aa680f97da8817f79aa",
+      "displayName": "iJamal",
+      "uuid": "e16da09837794aa680f97da8817f79aa",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "e16da09837794aa680f97da8817f79aa"
+}
