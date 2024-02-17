@@ -30,7 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
+gamma:1.0
 renderDistance:8
 simulationDistance:12
 entityDistanceScaling:1.0
@@ -54,7 +54,7 @@ textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
-pauseOnLostFocus:true
+pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
 chatHeightFocused:1.0
@@ -121,9 +121,9 @@ key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
-key_key.inventorysorter.itemout:key.mouse.102
-key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.sort:key.mouse.middle
+key_key.inventorysorter.itemout:key.mouse.102
 key_key.journeymap.zoom_in:key.keyboard.equal
 key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.left.bracket
@@ -141,7 +141,7 @@ key_key.journeymap.fullscreen.south:key.keyboard.down
 key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.h
-soundCategory_master:1.0
+soundCategory_master:0.18984547461368656
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
