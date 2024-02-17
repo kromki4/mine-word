@@ -75,7 +75,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -121,9 +121,9 @@ key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.sort:key.mouse.middle
+key_key.inventorysorter.itemin:key.mouse.100
 key_key.journeymap.zoom_in:key.keyboard.equal
 key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.left.bracket
