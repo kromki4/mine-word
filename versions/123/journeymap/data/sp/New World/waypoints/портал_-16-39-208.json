@@ -1,0 +1,22 @@
+{
+  "id": "портал_-16-39-208",
+  "name": "портал",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8031912-waypoint-icon.png",
+  "x": -16,
+  "y": 39,
+  "z": -208,
+  "r": 133,
+  "g": 113,
+  "b": 88,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

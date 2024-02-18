@@ -1,0 +1,22 @@
+{
+  "id": "деревня_-398-118-2107",
+  "name": "деревня",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7568673-waypoint-icon.png",
+  "x": -398,
+  "y": 118,
+  "z": -2107,
+  "r": 140,
+  "g": 130,
+  "b": 223,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
