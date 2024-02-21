@@ -9,7 +9,16 @@
       "type": "free",
       "skinType": "tlauncher",
       "premiumAccount": false
+    },
+    "c841c052b303421eb43e9b824fae335c": {
+      "username": "iJamal",
+      "userID": "iJamal",
+      "displayName": "iJamal",
+      "uuid": "c841c052b303421eb43e9b824fae335c",
+      "type": "free",
+      "premiumAccount": false
     }
   },
-  "selectedAccountUUID": "e16da09837794aa680f97da8817f79aa"
+  "selectedAccountUUID": "c841c052b303421eb43e9b824fae335c",
+  "freeAccountUUID": "c841c052b303421eb43e9b824fae335c"
 }

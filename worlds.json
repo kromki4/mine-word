@@ -2,16 +2,16 @@
   "worlds": [
     {
       "name": "New World",
-      "source": "C:\\Users\\jamal\\Documents\\GitHub\\mine-word\\saves\\New World",
-      "destination": "C:\\Users\\jamal\\Documents\\GitHub\\mine-word\\backup\\saves\\saves\\New World",
-      "lastChanged": "2024-02-17T00:49:28",
+      "source": "C:\\Users\\elokh\\OneDrive\\Документы\\GitHub\\mine-word\\versions\\123\\saves\\New World",
+      "destination": "C:\\Users\\elokh\\OneDrive\\Документы\\GitHub\\mine-word\\backup\\saves\\modpacks_saves\\New World",
+      "lastChanged": "2024-02-20T13:29:10",
       "backup": false
     },
     {
       "name": "New World",
-      "source": "C:\\Users\\jamal\\Documents\\GitHub\\mine-word\\versions\\123\\saves\\New World",
-      "destination": "C:\\Users\\jamal\\Documents\\GitHub\\mine-word\\backup\\saves\\modpacks_saves\\New World",
-      "lastChanged": "2024-02-18T01:10:49",
+      "source": "C:\\Users\\elokh\\OneDrive\\Документы\\GitHub\\mine-word\\saves\\New World",
+      "destination": "C:\\Users\\elokh\\OneDrive\\Документы\\GitHub\\mine-word\\backup\\saves\\saves\\New World",
+      "lastChanged": "2024-02-17T02:11:11",
       "backup": false
     }
   ]
